@@ -43,3 +43,18 @@ Learnings:
 > identify and adjust for outliers </br>
 > summarize, cross-tabulate, transpose, and reformat data to prepare a dataset for analysis </br>
 > join and union data from different sources and formats </br>
+
+### Project 3: Data Visualization in Tableau
+
+You are a business analyst consultant and your client is a new movie production company looking to make a new movie. The client wants to make sure it’s successful to help make a name for the new company. They are relying on you to help understand movie trends to help inform their decision making. </br>
+Question 1: [How have movie genres changed over time?](https://public.tableau.com/profile/pushkarbharambe#!/vizhome/movies-genre-over-time/Genresovertime) </br>
+Question 2: [How do the attributes differ between Universal Pictures and Paramount Pictures?](https://public.tableau.com/profile/pushkarbharambe#!/vizhome/movies-paramount-vs-universal/Paramount_vs_Universal) </br>
+Question 3: [How have movies based on novels performed relative to movies not based on novels?](https://public.tableau.com/profile/pushkarbharambe#!/vizhome/movies-novel-based/Anovelstory)</br>
+
+- Project: [Visualizing Movie Data](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P3/p3_movies_data_tableau_analysis.pdf)
+
+Learnings:
+> importance of data visualization and how it can be a game changer in the overall data science lifecycle
+> how to encode different data types in visualizations
+> how to select amongst different graphs/ charts available
+> create Tableau public gallery
