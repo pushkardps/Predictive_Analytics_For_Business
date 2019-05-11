@@ -59,7 +59,7 @@ Learnings:
 > how to select amongst different graphs/ charts available
 > create Tableau public gallery
 
-### Part 4: Classification Models by Alteryx
+### Project 4: Classification Models by Alteryx
 
 A bank recently received an influx of loan applications. You will build and apply a classification model to
 provide a recommendation on which loan applicants the bank should lend to.
@@ -70,3 +70,16 @@ Learnings:
 > understand the fundamentals of classification modeling and how it differs from modeling numeric data </br>
 > build logistic regression, decision tree, random forest and boosted models; use stepwise to automate predictor variables selection </br>
 > score and compare models and interpret the results </br>
+
+### Project 5: A/B Testing
+
+A chain of coffee shops is considering launching a new menu. You will design and analyze an A/B test and
+write up a recommendation on whether the chain should introduce the new menu.
+
+- Project 5: [A/B Test a New Menu Launch](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P5/p5-AB-Testing.pdf)
+
+Learnings:
+> understand the fundamentals of A/B testing, including selecting target and control units and variables and the duration of a test </br>
+> Randomized design : select test and control variables and understand the importance of sample size and design a randomized design A/B test and analyze the results </br>
+> Matched Pair design : match test units to control units and design a matched pair design A/B test and analyze the results </br>
+
