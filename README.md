@@ -2,9 +2,9 @@
 ## Pushkar Bharambe
 
 This program has enabled me to: 
-● Create mental models to clearly define business issues  
-● Visualize and prepare data to improve efficacy of predictive models  
-● Identify and implement a variety of predictive modeling techniques  
+● Create mental models to clearly define business issues  </br>
+● Visualize and prepare data to improve efficacy of predictive models  </br>
+● Identify and implement a variety of predictive modeling techniques  </br>
 
 This repository contains projects for Udacity's [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008) (formerly known as Business Analyst Nanodegree)
 
