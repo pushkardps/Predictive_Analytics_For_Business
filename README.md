@@ -51,10 +51,22 @@ Question 1: [How have movie genres changed over time?](https://public.tableau.co
 Question 2: [How do the attributes differ between Universal Pictures and Paramount Pictures?](https://public.tableau.com/profile/pushkarbharambe#!/vizhome/movies-paramount-vs-universal/Paramount_vs_Universal) </br>
 Question 3: [How have movies based on novels performed relative to movies not based on novels?](https://public.tableau.com/profile/pushkarbharambe#!/vizhome/movies-novel-based/Anovelstory)</br>
 
-- Project: [Visualizing Movie Data](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P3/p3_movies_data_tableau_analysis.pdf)
+- Project 3: [Visualizing Movie Data](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P3/p3_movies_data_tableau_analysis.pdf)
 
 Learnings:
 > importance of data visualization and how it can be a game changer in the overall data science lifecycle
 > how to encode different data types in visualizations
 > how to select amongst different graphs/ charts available
 > create Tableau public gallery
+
+### Part 4: Classification Models by Alteryx
+
+A bank recently received an influx of loan applications. You will build and apply a classification model to
+provide a recommendation on which loan applicants the bank should lend to.
+
+- Project: [Creditworthiness: Predicting Default Risk](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P4/P4-bank-default-risk.pdf)
+
+Learnings:
+> understand the fundamentals of classification modeling and how it differs from modeling numeric data </br>
+> build logistic regression, decision tree, random forest and boosted models; use stepwise to automate predictor variables selection </br>
+> score and compare models and interpret the results </br>
