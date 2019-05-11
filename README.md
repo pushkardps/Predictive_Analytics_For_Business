@@ -64,7 +64,7 @@ Learnings:
 A bank recently received an influx of loan applications. You will build and apply a classification model to
 provide a recommendation on which loan applicants the bank should lend to.
 
-- Project: [Creditworthiness: Predicting Default Risk](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P4/P4-bank-default-risk.pdf)
+- Project 4: [Creditworthiness: Predicting Default Risk](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P4/P4-bank-default-risk.pdf)
 
 Learnings:
 > understand the fundamentals of classification modeling and how it differs from modeling numeric data </br>
@@ -88,7 +88,7 @@ Learnings:
 A video game producer is planning production levels. You will use time series forecasting models to forecast
 monthly demand and provide a recommendation to help match supply to demand.
 
-- Project: [Forecast Video Game Sales](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P6/P6-forecasting-video-game-demand.pdf)
+- Project 6: [Forecast Video Game Sales](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P6/P6-forecasting-video-game-demand.pdf)
 
 Learnings:
 > understand trend, seasonal, and cyclical behavior of time series data </br>
