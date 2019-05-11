@@ -109,7 +109,7 @@ Learnings:
 > Variable Reduction: use principal components analysis (PCA) to reduce the number of variables for cluster model </br>
 > Clustering models: select the appropriate number of clusters; build and apply a k-centroid cluster model </br>
 
-My Business Analyst certificate:
+My certificate:
 ![Udacity Business Analyst Nanodegree](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/PB_BAND_Certification.JPG)
 
 
