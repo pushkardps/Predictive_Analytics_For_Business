@@ -1,7 +1,7 @@
 # Predictive Analytics for Business Nanodegree                                                                        
 ## Pushkar Bharambe
 
-This program has enabled me to: 
+This program has enabled me to: </br>
 ● Create mental models to clearly define business issues  </br>
 ● Visualize and prepare data to improve efficacy of predictive models  </br>
 ● Identify and implement a variety of predictive modeling techniques  </br>
