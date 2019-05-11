@@ -110,6 +110,6 @@ Learnings:
 > Clustering models: select the appropriate number of clusters; build and apply a k-centroid cluster model </br>
 
 My Business Analyst certificate:
-![Udacity Business Analyst Nanodegree](https://graduation-api.udacity.com/api/certificate/EGCLMKFD/download)
+![Udacity Business Analyst Nanodegree](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/PB_BAND_Certification.JPG)
 
 
