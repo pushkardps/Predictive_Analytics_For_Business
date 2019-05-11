@@ -91,9 +91,9 @@ monthly demand and provide a recommendation to help match supply to demand.
 - Project: [Forecast Video Game Sales](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P6/P6-forecasting-video-game-demand.pdf)
 
 Learnings:
-< understand trend, seasonal, and cyclical behavior of time series data </br>
-< use time series decomposition plots and build an ETS model </br>
-< stationarize data through differencing, a process that prepares data for ARIMA modeling </br>
+> understand trend, seasonal, and cyclical behavior of time series data </br>
+> use time series decomposition plots and build an ETS model </br>
+> stationarize data through differencing, a process that prepares data for ARIMA modeling </br>
 
 ### Project 7: Segmentation and Clustering
 
@@ -101,13 +101,15 @@ A grocery store chain is planning a significant expansion. You will use multiple
 provide recommendations on how to expand. After completing the project, you will feel comfortable
 combining predictive techniques and delivering results to complex business problems.
 
-- Capstone Project: [Predictive Analytics Capstone](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P7/P7-grocery-store-expansion.pdf)
+- Project 7: Capstone Project: [Predictive Analytics Capstone](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P7/P7-grocery-store-expansion.pdf)
 
 Learnings:
-< Segmentation basics: understand the difference between localization, standardization, and segmentation </br>
-< Preparing data: scale data to prepare a dataset for cluster modeling and select variables to include based on the business context </br>
-< Variable Reduction: use principal components analysis (PCA) to reduce the number of variables for cluster model </br>
-< Clustering models: select the appropriate number of clusters; build and apply a k-centroid cluster model </br>
+> Segmentation basics: understand the difference between localization, standardization, and segmentation </br>
+> Preparing data: scale data to prepare a dataset for cluster modeling and select variables to include based on the business context </br>
+> Variable Reduction: use principal components analysis (PCA) to reduce the number of variables for cluster model </br>
+> Clustering models: select the appropriate number of clusters; build and apply a k-centroid cluster model </br>
 
+My Business Analyst certificate:
+![Udacity Business Analyst Nanodegree](https://graduation-api.udacity.com/api/certificate/EGCLMKFD/download)
 
 
