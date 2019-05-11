@@ -80,8 +80,6 @@ write up a recommendation on whether the chain should introduce the new menu.
 
 Learnings:
 > understand the fundamentals of A/B testing, including selecting target and control units and variables and the duration of a test </br>
-> select test and control variables and understand the importance of sample size </br>
-> design a randomized design A/B test and analyze the results </br>
-> match test units to control units </br>
-> design a matched pair design A/B test and analyze the results </br>
+> Randomized design : select test and control variables and understand the importance of sample size and design a randomized design A/B test and analyze the results </br>
+> Matched Pair design : match test units to control units and design a matched pair design A/B test and analyze the results </br>
 
