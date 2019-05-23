@@ -14,7 +14,7 @@ A jewelry company wants to put in a bid to purchase a large set of diamonds, but
 
 - Proj 1.1: [Predicting Diamond Prices](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P1/P1%20-%20Diamond%20prices/P1_diamond_prices.pdf)
 
-A home-goods manufacturer wants to predict expected profits from a catalog launch. Ihe goal is to identify the required
+A home-goods manufacturer wants to predict expected profits from a catalog launch. The goal is to identify the required
 framework to work through the problem and build a linear regression model to provide results and a
 recommendation.
 
