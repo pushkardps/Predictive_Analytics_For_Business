@@ -10,11 +10,11 @@ This repository contains projects for Udacity's [Predictive Analytics for Busine
 
 ### Project 1: Problem Solving with Advanced Analytics by Alteryx
 
-A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. The aim is to use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
 
 - Proj 1.1: [Predicting Diamond Prices](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P1/P1%20-%20Diamond%20prices/P1_diamond_prices.pdf)
 
-A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a
+A home-goods manufacturer wants to predict expected profits from a catalog launch. Ihe goal is to identify the required
 framework to work through the problem and build a linear regression model to provide results and a
 recommendation.
 
@@ -27,7 +27,7 @@ Learnings:
 
 ### Project 2: Data Wrangling : Creating an Analytical Dataset by Alteryx
 
-A pet store chain is selecting the location for its next store. You will use data preparation techniques to build
+A pet store chain is selecting the location for its next store. The aim is to use data preparation techniques to build
 a robust analytic dataset and use it to build a predictive model to select the best location.
 
 - Project 2.1a: [Data Cleanup](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P2/P2_create_an_analytical_dataset/p2.1a-create-an-analytical-dataset.pdf)
@@ -61,7 +61,7 @@ Learnings:
 
 ### Project 4: Classification Models by Alteryx
 
-A bank recently received an influx of loan applications. You will build and apply a classification model to
+A bank recently received an influx of loan applications. The aim is to build and apply a classification model to
 provide a recommendation on which loan applicants the bank should lend to.
 
 - Project 4: [Creditworthiness: Predicting Default Risk](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P4/P4-bank-default-risk.pdf)
@@ -73,7 +73,7 @@ Learnings:
 
 ### Project 5: A/B Testing
 
-A chain of coffee shops is considering launching a new menu. You will design and analyze an A/B test and
+A chain of coffee shops is considering launching a new menu. Design and analyze an A/B test and
 write up a recommendation on whether the chain should introduce the new menu.
 
 - Project 5: [A/B Test a New Menu Launch](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P5/p5-AB-Testing.pdf)
@@ -85,7 +85,7 @@ Learnings:
 
 ### Project 6: Time Series Forecasting
 
-A video game producer is planning production levels. You will use time series forecasting models to forecast
+A video game producer is planning production levels. Use time series forecasting models to forecast
 monthly demand and provide a recommendation to help match supply to demand.
 
 - Project 6: [Forecast Video Game Sales](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P6/P6-forecasting-video-game-demand.pdf)
@@ -97,10 +97,8 @@ Learnings:
 
 ### Project 7: Segmentation and Clustering
 
-A grocery store chain is planning a significant expansion. You will use multiple analytical techniques to
-provide recommendations on how to expand. After completing the project, you will feel comfortable
-combining predictive techniques and delivering results to complex business problems.
-
+A grocery store chain is planning a significant expansion. Use multiple analytical techniques to
+provide recommendations on how to expand.  
 - Project 7: Capstone Project: [Predictive Analytics Capstone](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/P7/P7-grocery-store-expansion.pdf)
 
 Learnings:
@@ -108,6 +106,8 @@ Learnings:
 > Preparing data: scale data to prepare a dataset for cluster modeling and select variables to include based on the business context </br>
 > Variable Reduction: use principal components analysis (PCA) to reduce the number of variables for cluster model </br>
 > Clustering models: select the appropriate number of clusters; build and apply a k-centroid cluster model </br>
+> Comfortable combining predictive techniques and delivering results to complex business problems </br>
+
 
 My certificate:
 ![Udacity Business Analyst Nanodegree](https://github.com/pushkardps/Predictive_Analytics_For_Business/blob/master/PB_BAND_Certification.JPG)
